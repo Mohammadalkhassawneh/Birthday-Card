@@ -1,0 +1,21 @@
+body {
+    background-color:hotpink;
+}
+p {
+    color: hotpink;
+}
+.container {
+    width: 30%;
+    background-color: white;
+    height: auto;
+    margin: auto;
+    margin-top: 20vh;
+    padding: 10px;
+    border-radius: 5px;
+}
+.card img {
+    height: 60px;
+    width: 60px;
+    float: left;
+    
+}
