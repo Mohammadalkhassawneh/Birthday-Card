@@ -1,0 +1,58 @@
+body{
+    background-color: #F08AB1;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    background-color: #fff;
+    width: 25%;
+    height: auto;
+    margin: 150px auto;
+    padding: 20px;
+    box-shadow: 1px 7px 17px #888888;
+    border-radius: 10px;
+    text-align: left;
+
+}
+.cards h3 {
+    color:saddlebrown;
+    font-size: larger;
+}
+
+.card img{
+    width: 60px;
+    float: left;
+    height: 70px;
+}
+button {
+    background-color: black;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+}
+.buttons :focus {
+    border: none;
+    outline: none;
+}
+.buttons {
+    text-align: center;
+}
+button.Clearbutton {
+    display: flex;
+    
+}
+p {
+    padding: 20px;
+    font-size: 20px;
+    font-family:monospace ;
+
+}
+p span {
+    color: aquamarine;
+    background-color: blue;
+}
